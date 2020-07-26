@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "2.7.0",
-  "description": "A chrome extension boilerplate built with React 16 and Webpack 4",
+  "name": "slack-emojis-in-github",
+  "version": "0.0.1",
+  "description": "A chrome extension for using custom Slack workspace emojis in GitHub PRs.",
   "license": "MIT",
   "repository": {
     "type": "git",
